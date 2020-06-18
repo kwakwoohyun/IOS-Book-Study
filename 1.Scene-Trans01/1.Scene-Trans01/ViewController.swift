@@ -20,7 +20,6 @@ class ViewController: UIViewController {
             //        let storyboard = UIStoryboard(name: "Main", bundle: Bundle.main)
             //        storyboard?.instantiateViewController(identifier: "SecondVC")
                     
-                    
             //        화면 전환할 때의 애니메이션 타입
             //        1. UIModalTransitionStyle.coverVertical
             //        2. UIModalTransitionStyle.crossDissolve
